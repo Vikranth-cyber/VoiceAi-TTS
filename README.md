@@ -56,3 +56,6 @@ output_wav = synthesizer.tts("Hello, this is your custom multilingual voice!")
 synthesizer.save_wav(output_wav, "custom_voice_sample.wav")
 
 print("Audio generated and saved as custom_voice_sample.wav")
+### Download the checkpoint
+
+You can download the model checkpoint file from [Dropbox here](https://www.dropbox.com/scl/fi/lz3wmgg9pactg3u270nmn/checkpoint_1110000.pth?rlkey=hn3g6pba7jkkzllcgw7xrzdzw&st=018dm6zk&dl=0).
